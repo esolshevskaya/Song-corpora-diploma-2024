@@ -1,0 +1,10 @@
+какие модули надо ставить в пайчарм:
+версия 8.10.11
+scikit-learn
+transformers
+pandas
+pymorphy2
+nltk
+scikit-learn 
+torch torchvision torchaudio
+openpyxl
